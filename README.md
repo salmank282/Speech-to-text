@@ -21,3 +21,9 @@ It allows users to start and stop voice input, and displays the recognized trans
    ```bash
    git clone https://github.com/salmank282/Speech-to-text.git
    cd Speech-to-text
+   npm i
+
+2. Start the project
+   ```
+   npm run dev
+   npm run dev
