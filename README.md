@@ -26,4 +26,3 @@ It allows users to start and stop voice input, and displays the recognized trans
 2. Start the project
    ```
    npm run dev
-   npm run dev
